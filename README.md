@@ -6,4 +6,4 @@ study dcgan
 ![03](https://github.com/KimHS0915/pytorch-dcgan/blob/master/img/dcgan_03.png "50")
 ![04](https://github.com/KimHS0915/pytorch-dcgan/blob/master/img/dcgan_04.png "100")
 
-![gif](https://github.com/KimHS0915/pytorch-dcgan/blob/master/img/dcgan_face.gif "100")
+[GIF](https://github.com/KimHS0915/pytorch-dcgan/blob/master/img/dcgan_face.gif)
